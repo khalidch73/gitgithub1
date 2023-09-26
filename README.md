@@ -1,7 +1,8 @@
 # gitgithub1
-how to interlink git and github globly.
-install gitbash 
-check version 
+1. how to interlink git and github globly.
+2. install gitbash 
+3. check version 
                 git -v
-readme.md => md mean mark down
+4. readme.md => md mean mark down
+5. 
 
