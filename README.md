@@ -13,7 +13,8 @@
 8. m mean modified 
 9. u mean untracked =>its a new file git is not able to tracked index.ts yet if we change in this file git don't knows about this changing. after do some changing in our fil show untracked status.
 10. s mean staged => file is ready to be committed when we add file.
-11. how to add and commit.
+11. how to add and commit and push on git hub
             git add <file name>
             git add .           => this command is to add all the files which are modified and untracked.
-12.         git commit -m ""
+            git commit -m ""
+            git push origin main 
