@@ -15,3 +15,5 @@
 10. s mean staged => file is ready to be committed when we add file.
 11. how to add and commit.
             git add <file name>
+            git add .           => this command is to add all the files which are modified and untracked.
+12.         git commit -m ""
